@@ -14,11 +14,13 @@
 2. 영화관 관람객 수(월별) : https://www.kobis.or.kr/kobis/business/stat/them/findMonthlyTotalList.do
 3. 영화관 관람객 수(일별) : https://www.kobis.or.kr/kobis/business/stat/them/findDailyTotalList.do
 4. OTT서비스 관련 통계 : https://stat.kisdi.re.kr/kor/tblInfo/TblInfoList2.html?vw_cd=MT_ETITLE&siteGb=SITE001
+    
     주제별 > 미디어이용 > 한국미디어패널조사-개인 
     1) 가장 많이 이용하는 OTT서비스의 주이용콘텐츠
     2) 최근 3개월 OTT서비스이용경험여부
     3) OTT서비스 이용빈도
     4) OTT서비스 이용시간
     5) 자주 이용하는 스마트기기 애플리케이션
+
 5. 1년동안 가장 많이 이용한 여가공간 : https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028398
 6. 해외 유료 OTT서비스 비가입이유 : https://www.data.go.kr/data/15102283/fileData.do
